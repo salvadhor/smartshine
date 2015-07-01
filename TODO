@@ -1,0 +1,7 @@
+(done)		- Repair flip + rotate (two different params),
+(partialy done) - Emit any sign of life durning adding photos/saving photos (damn
+		  gtk.spinner (can't spin in background?) and recently-used.xbel (blocks
+		  filechooser),
+(partialy done) - Rethink GUI, 
+		- Make use of ImageMagick (sharpen?),
+(done)		- GTK3

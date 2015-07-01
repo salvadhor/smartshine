@@ -1,0 +1,18 @@
+[Desktop Entry]
+Version=1.0
+Name=SmartShine
+GenericName=SmartShine Photo
+Comment=Make your photos shine - auto gamma levels, contrast, saturation 
+Comment[pl]=Zbalansuj swoje zdjęcia - automatyczna korekta kontrastu, saturacji, poziomów
+
+Type=Application
+Categories=Graphics;Photography;
+
+Exec=/usr/bin/smartshine
+Icon=smartshine
+
+Terminal=false
+StartupNotify=true
+
+MimeType=application/x-sshine;image/jpeg;image/png;image/bmp;image/jp2
+Name[pl_PL]=SmartShine Photo
